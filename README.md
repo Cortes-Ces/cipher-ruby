@@ -27,5 +27,5 @@ Creating a Caesar's cipher using Ruby language
 11. Return final ciphered text in the `result` string
 12. Ask user input and store in `user_text`
 13. Ask user for shift value and store in `user_shift`
-14. Call cipher method with user values and storing in ciphered_text
+14. Call `cipher` method with user values and storing in `ciphered_text`
 15. Prints original and ciphered text.
